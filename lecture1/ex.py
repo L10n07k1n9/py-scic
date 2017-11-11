@@ -1,8 +1,6 @@
 """
 28/10/2017
 b170448@cic.ipn.mx
-badillo.soft@hotmail.com
-github/badillosoft/python-scic
 """
 #declare vars
 listaPerrona,sumLst=[0,1,2,5,7,3,2],0
