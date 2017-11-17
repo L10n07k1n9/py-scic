@@ -1,14 +1,33 @@
-def Load_Matrix_CSV(filename, mode="r", separator=","):
-    file, mat = open(filename, mode), []
-    for line in file:
-        mat.append(list(map(lambda s: float(s), line.split(separator))))
-    file.close()
+def load_matrix_csv(filename):
+    f = open(filename, "r")
+    mat = []
+    for line in f:
+        srow = line.split(",")
+        row = list(map(lambda s: float(s), srow))
+        mat.append(row)
+    f.close()
     return mat
 
+def save_matrix_csv(filename, mat):
+    f = open(filename, "w")
+    for row in mat:
+        srow = list(map(lambda x: str(x), row))
+        line = ", ".join(srow)
+        f.write(line + "\n")
+    f.close()
 
-def Save_Matrix_CSV(filename, mat):
-    file = open(filename, "w")
-    for m in mat:
-       line = list(map(lamda x: str(x), m)))
-       file.write("{} \n", line)
-    file.close()
+def get_line(filename, i):
+    f = open(filename, "r")
+    lines = f.readlines()
+    f.close()
+    return lines[i - 1]
+
+def count_word(filename, word):
+    f = open(filename)
+    count = 0
+    for line in f:
+        words = line.split(" ")
+        for w in words:
+            if w.lower() == word.lower():
+                count += 1
+    return count
