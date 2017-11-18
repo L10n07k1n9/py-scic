@@ -13,9 +13,9 @@ def plot_from_csv(file_csv):
 
         def get_labels(row):
             return row[column_to_count]
-        labels_raw = list(map(get_labels, csv["data"]["rows"]))
         # def get_sizes(label): return label.column_to_count
         # sizes = [[el,labels.count(el)] from el in set(labels)]
+        labels_raw = list(map(get_labels, csv["data"]["rows"]))
         c_labels_raw = Counter(labels_raw)
         labels, sizes = c_labels_raw.keys(), c_labels_raw.values()
         explode = (0.3, 0.1, 0, 0)
