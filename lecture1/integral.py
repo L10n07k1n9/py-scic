@@ -5,11 +5,15 @@ def f(x):
     return x**2 - 2 * x + 4
 
 
+def test_raise():
+    raise ValueError("'a' must not be greater or equal to 'b'!")
+
+
 def Integral():
     # limits where a < b
     a, b = 0, 3
     # number of points to evvaluate
-    n = int(5, 10)
+    n, integralAprox = 5, 0
     # delta for diff of point in n
     delta = (b - a) / n
     for i in range(0, n):
@@ -21,13 +25,13 @@ def Integral():
         hMin = f(xMin)
         hMax = f(xMax)
 
-        height = (hMin - hMax) / 2
+        height = (hMin + hMax) / 2
         base = xMax - xMin
 
-        area, integralAprox = delta * height, 0
+        area = base * height
 
         integralAprox += area
-        return integralAprox
+    return integralAprox
 
 
 print("Integral of f(x)={:.4f}".format(Integral()))
