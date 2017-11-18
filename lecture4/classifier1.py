@@ -5,3 +5,7 @@ X = [[1, 1, 8, 1],
      [2, 3, 10, 2],
      [2, 1, 8, 2]]
 Y = [1, 2, 3, 4]
+clf = DecisionTreeClassifier()
+# train
+clf.fit(X, Y)
+
