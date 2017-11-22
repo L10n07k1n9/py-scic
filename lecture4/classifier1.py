@@ -1,11 +1,35 @@
 from sklearn.tree import DecisionTreeClassifier
+X = [
+    [1, 1, 8, 1],  # 1
+    [2, 2, 8, 2],  # 2
+    [2, 3, 10, 2],  # 3
+    [2, 1, 8, 2],  # 2
+    [2, 1, 8, 2]  # 4
+]
 
-X = [[1, 1, 8, 1],
-     [2, 2, 8, 2],
-     [2, 3, 10, 2],
-     [2, 1, 8, 2]]
-Y = [1, 2, 3, 4]
+Y = [
+    1,
+    2,
+    3,
+    2,
+    4
+]
+
 clf = DecisionTreeClassifier()
-# train
+
 clf.fit(X, Y)
 
+# sabor dulce,dulce,tm=8,semi
+R = clf.predict([[2, 1, 8, 1]])
+
+print(R)
+
+
+from sklearn import tree
+import graphviz
+
+dot_data = tree.export_graphviz(clf, out_file=None) 
+
+graph = graphviz.Source(dot_data)
+
+graph.render("frutas")
