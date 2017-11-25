@@ -36,5 +36,4 @@ print("Frec of word <{}>: {}".format(w1, freq[w1]))
 freq.plot(50, cumulative=True)
 
 # search for words of length with freq  greater than 20
-
-words =set ([word for word in text1 if len(word) == 5 and freq[word]>600])
+words = set([word for word in text1 if len(word) == 5 and freq[word] > 600])
