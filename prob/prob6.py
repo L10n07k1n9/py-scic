@@ -1,18 +1,24 @@
+import sys
 import scic as s
 import random
 import matplotlib.pyplot as plt
 from collections import Counter
 # Problemas
-
 # Generar un archivo CSV con valores aleatorios que almacene los datos de un experimento ficticio que consta de los campos Tiempo, Dilatacion, Temperatura, Densidad.
-file_name = "prob6.csv"
+file_name,seed = "./prob/",1000
+if len(sys.argv) > 1:
+    file_name=sys.argv[1]
+else:
+    file_name = file_name + "prob6.csv"
+if len(sys.argv) > 2:
+    seed=int(sys.argv[2])
 temp_col = "Temperatura"
 dilatacion_col = "Dilatacion"
 temp_validation = "Invalido"
 dilatacion_validation = "Sobredilatado"
-header = ["Tiempo", dilatacion_col, "Temperatura", "Densidad"]
+header = ["Tiempo", dilatacion_col, temp_col, "Densidad"]
 mat = [header]
-for i in range(1000 + 1):
+for i in range(seed):
     mat.append(random.sample(range(0, 200), 4))
 s.save_matrix_csv(file_name, mat)
 # Cargar los datos con la función scic.load_data_csv(...) e imprimirlos.
