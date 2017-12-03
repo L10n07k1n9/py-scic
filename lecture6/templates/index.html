@@ -1,0 +1,8 @@
+<!doctype html>
+<title>Hello from Flask</title>
+
+{% if context.user %}
+<h1>Wasssssup: {{ context.user }}!</h1>
+{% else %}
+<h1>Hey new dude... Please <a href="/signin">login here</a></h1>
+{% endif %}

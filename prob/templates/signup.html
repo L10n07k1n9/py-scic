@@ -1,0 +1,22 @@
+<!doctype html>
+<title>Sign Up now!</title>
+
+{% if error %}
+<h1>Warning an error was found</h1>
+{% else %}
+<h1>Please fill the form:</h1>
+{% endif %}
+
+<form action="/saveusr" method="POST">
+    <label for="usuario">Usuario:</label><br>
+    <input name="usuario" type="text"><br>
+    <label for="nombre">Nombre:</label><br>
+    <input name="nombre" type="text"><br>
+    <label for="apellido">Apellido:</label><br>
+    <input name="apellido" type="text"><br>
+
+    <label for="clave">Contraseña:</label><br>
+    <input name="clave" type="password"><br>
+    <input type="submit" value="ingresar">
+</form>
+

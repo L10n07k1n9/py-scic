@@ -1,0 +1,800 @@
+TIEMPO: 68 MIN
+TEMPERATURA: 13 C
+DENSIDAD: 17 U
+-------------------------------
+TIEMPO: 182 MIN
+TEMPERATURA: 96 C
+DENSIDAD: 49 U
+-------------------------------
+TIEMPO: 6 MIN
+TEMPERATURA: 160 C
+DENSIDAD: 157 U
+-------------------------------
+TIEMPO: 143 MIN
+TEMPERATURA: 90 C
+DENSIDAD: 54 U
+-------------------------------
+TIEMPO: 199 MIN
+TEMPERATURA: 137 C
+DENSIDAD: 133 U
+-------------------------------
+TIEMPO: 116 MIN
+TEMPERATURA: 171 C
+DENSIDAD: 53 U
+-------------------------------
+TIEMPO: 184 MIN
+TEMPERATURA: 162 C
+DENSIDAD: 62 U
+-------------------------------
+TIEMPO: 102 MIN
+TEMPERATURA: 132 C
+DENSIDAD: 180 U
+-------------------------------
+TIEMPO: 52 MIN
+TEMPERATURA: 84 C
+DENSIDAD: 122 U
+-------------------------------
+TIEMPO: 101 MIN
+TEMPERATURA: 76 C
+DENSIDAD: 118 U
+-------------------------------
+TIEMPO: 74 MIN
+TEMPERATURA: 52 C
+DENSIDAD: 197 U
+-------------------------------
+TIEMPO: 138 MIN
+TEMPERATURA: 190 C
+DENSIDAD: 154 U
+-------------------------------
+TIEMPO: 24 MIN
+TEMPERATURA: 184 C
+DENSIDAD: 25 U
+-------------------------------
+TIEMPO: 96 MIN
+TEMPERATURA: 60 C
+DENSIDAD: 24 U
+-------------------------------
+TIEMPO: 140 MIN
+TEMPERATURA: 53 C
+DENSIDAD: 164 U
+-------------------------------
+TIEMPO: 53 MIN
+TEMPERATURA: 168 C
+DENSIDAD: 98 U
+-------------------------------
+TIEMPO: 99 MIN
+TEMPERATURA: 86 C
+DENSIDAD: 68 U
+-------------------------------
+TIEMPO: 137 MIN
+TEMPERATURA: 46 C
+DENSIDAD: 166 U
+-------------------------------
+TIEMPO: 79 MIN
+TEMPERATURA: 10 C
+DENSIDAD: 67 U
+-------------------------------
+TIEMPO: 146 MIN
+TEMPERATURA: 70 C
+DENSIDAD: 41 U
+-------------------------------
+TIEMPO: 109 MIN
+TEMPERATURA: 70 C
+DENSIDAD: 185 U
+-------------------------------
+TIEMPO: 119 MIN
+TEMPERATURA: 111 C
+DENSIDAD: 80 U
+-------------------------------
+TIEMPO: 61 MIN
+TEMPERATURA: 136 C
+DENSIDAD: 75 U
+-------------------------------
+TIEMPO: 21 MIN
+TEMPERATURA: 111 C
+DENSIDAD: 197 U
+-------------------------------
+TIEMPO: 133 MIN
+TEMPERATURA: 61 C
+DENSIDAD: 146 U
+-------------------------------
+TIEMPO: 142 MIN
+TEMPERATURA: 75 C
+DENSIDAD: 125 U
+-------------------------------
+TIEMPO: 27 MIN
+TEMPERATURA: 73 C
+DENSIDAD: 152 U
+-------------------------------
+TIEMPO: 186 MIN
+TEMPERATURA: 19 C
+DENSIDAD: 51 U
+-------------------------------
+TIEMPO: 118 MIN
+TEMPERATURA: 43 C
+DENSIDAD: 127 U
+-------------------------------
+TIEMPO: 58 MIN
+TEMPERATURA: 56 C
+DENSIDAD: 197 U
+-------------------------------
+TIEMPO: 108 MIN
+TEMPERATURA: 137 C
+DENSIDAD: 174 U
+-------------------------------
+TIEMPO: 190 MIN
+TEMPERATURA: 143 C
+DENSIDAD: 75 U
+-------------------------------
+TIEMPO: 186 MIN
+TEMPERATURA: 174 C
+DENSIDAD: 83 U
+-------------------------------
+TIEMPO: 63 MIN
+TEMPERATURA: 4 C
+DENSIDAD: 109 U
+-------------------------------
+TIEMPO: 118 MIN
+TEMPERATURA: 149 C
+DENSIDAD: 60 U
+-------------------------------
+TIEMPO: 90 MIN
+TEMPERATURA: 68 C
+DENSIDAD: 114 U
+-------------------------------
+TIEMPO: 138 MIN
+TEMPERATURA: 155 C
+DENSIDAD: 62 U
+-------------------------------
+TIEMPO: 96 MIN
+TEMPERATURA: 80 C
+DENSIDAD: 121 U
+-------------------------------
+TIEMPO: 186 MIN
+TEMPERATURA: 103 C
+DENSIDAD: 100 U
+-------------------------------
+TIEMPO: 21 MIN
+TEMPERATURA: 188 C
+DENSIDAD: 55 U
+-------------------------------
+TIEMPO: 69 MIN
+TEMPERATURA: 161 C
+DENSIDAD: 20 U
+-------------------------------
+TIEMPO: 84 MIN
+TEMPERATURA: 146 C
+DENSIDAD: 58 U
+-------------------------------
+TIEMPO: 73 MIN
+TEMPERATURA: 91 C
+DENSIDAD: 28 U
+-------------------------------
+TIEMPO: 116 MIN
+TEMPERATURA: 74 C
+DENSIDAD: 10 U
+-------------------------------
+TIEMPO: 59 MIN
+TEMPERATURA: 123 C
+DENSIDAD: 170 U
+-------------------------------
+TIEMPO: 99 MIN
+TEMPERATURA: 21 C
+DENSIDAD: 166 U
+-------------------------------
+TIEMPO: 1 MIN
+TEMPERATURA: 164 C
+DENSIDAD: 9 U
+-------------------------------
+TIEMPO: 8 MIN
+TEMPERATURA: 87 C
+DENSIDAD: 21 U
+-------------------------------
+TIEMPO: 101 MIN
+TEMPERATURA: 105 C
+DENSIDAD: 148 U
+-------------------------------
+TIEMPO: 127 MIN
+TEMPERATURA: 105 C
+DENSIDAD: 29 U
+-------------------------------
+TIEMPO: 175 MIN
+TEMPERATURA: 142 C
+DENSIDAD: 160 U
+-------------------------------
+TIEMPO: 105 MIN
+TEMPERATURA: 193 C
+DENSIDAD: 63 U
+-------------------------------
+TIEMPO: 102 MIN
+TEMPERATURA: 161 C
+DENSIDAD: 71 U
+-------------------------------
+TIEMPO: 116 MIN
+TEMPERATURA: 191 C
+DENSIDAD: 117 U
+-------------------------------
+TIEMPO: 195 MIN
+TEMPERATURA: 156 C
+DENSIDAD: 184 U
+-------------------------------
+TIEMPO: 106 MIN
+TEMPERATURA: 63 C
+DENSIDAD: 10 U
+-------------------------------
+TIEMPO: 178 MIN
+TEMPERATURA: 193 C
+DENSIDAD: 125 U
+-------------------------------
+TIEMPO: 17 MIN
+TEMPERATURA: 66 C
+DENSIDAD: 159 U
+-------------------------------
+TIEMPO: 47 MIN
+TEMPERATURA: 189 C
+DENSIDAD: 184 U
+-------------------------------
+TIEMPO: 110 MIN
+TEMPERATURA: 146 C
+DENSIDAD: 38 U
+-------------------------------
+TIEMPO: 162 MIN
+TEMPERATURA: 134 C
+DENSIDAD: 166 U
+-------------------------------
+TIEMPO: 57 MIN
+TEMPERATURA: 173 C
+DENSIDAD: 93 U
+-------------------------------
+TIEMPO: 105 MIN
+TEMPERATURA: 26 C
+DENSIDAD: 172 U
+-------------------------------
+TIEMPO: 66 MIN
+TEMPERATURA: 67 C
+DENSIDAD: 26 U
+-------------------------------
+TIEMPO: 84 MIN
+TEMPERATURA: 126 C
+DENSIDAD: 58 U
+-------------------------------
+TIEMPO: 122 MIN
+TEMPERATURA: 46 C
+DENSIDAD: 190 U
+-------------------------------
+TIEMPO: 68 MIN
+TEMPERATURA: 142 C
+DENSIDAD: 113 U
+-------------------------------
+TIEMPO: 8 MIN
+TEMPERATURA: 38 C
+DENSIDAD: 120 U
+-------------------------------
+TIEMPO: 47 MIN
+TEMPERATURA: 161 C
+DENSIDAD: 74 U
+-------------------------------
+TIEMPO: 155 MIN
+TEMPERATURA: 24 C
+DENSIDAD: 138 U
+-------------------------------
+TIEMPO: 135 MIN
+TEMPERATURA: 113 C
+DENSIDAD: 176 U
+-------------------------------
+TIEMPO: 154 MIN
+TEMPERATURA: 60 C
+DENSIDAD: 2 U
+-------------------------------
+TIEMPO: 164 MIN
+TEMPERATURA: 109 C
+DENSIDAD: 29 U
+-------------------------------
+TIEMPO: 98 MIN
+TEMPERATURA: 40 C
+DENSIDAD: 168 U
+-------------------------------
+TIEMPO: 115 MIN
+TEMPERATURA: 59 C
+DENSIDAD: 184 U
+-------------------------------
+TIEMPO: 183 MIN
+TEMPERATURA: 136 C
+DENSIDAD: 37 U
+-------------------------------
+TIEMPO: 82 MIN
+TEMPERATURA: 40 C
+DENSIDAD: 177 U
+-------------------------------
+TIEMPO: 180 MIN
+TEMPERATURA: 144 C
+DENSIDAD: 88 U
+-------------------------------
+TIEMPO: 134 MIN
+TEMPERATURA: 122 C
+DENSIDAD: 72 U
+-------------------------------
+TIEMPO: 69 MIN
+TEMPERATURA: 15 C
+DENSIDAD: 44 U
+-------------------------------
+TIEMPO: 161 MIN
+TEMPERATURA: 190 C
+DENSIDAD: 181 U
+-------------------------------
+TIEMPO: 178 MIN
+TEMPERATURA: 89 C
+DENSIDAD: 119 U
+-------------------------------
+TIEMPO: 38 MIN
+TEMPERATURA: 127 C
+DENSIDAD: 0 U
+-------------------------------
+TIEMPO: 48 MIN
+TEMPERATURA: 189 C
+DENSIDAD: 196 U
+-------------------------------
+TIEMPO: 46 MIN
+TEMPERATURA: 180 C
+DENSIDAD: 172 U
+-------------------------------
+TIEMPO: 82 MIN
+TEMPERATURA: 14 C
+DENSIDAD: 149 U
+-------------------------------
+TIEMPO: 187 MIN
+TEMPERATURA: 41 C
+DENSIDAD: 103 U
+-------------------------------
+TIEMPO: 131 MIN
+TEMPERATURA: 22 C
+DENSIDAD: 118 U
+-------------------------------
+TIEMPO: 93 MIN
+TEMPERATURA: 28 C
+DENSIDAD: 104 U
+-------------------------------
+TIEMPO: 30 MIN
+TEMPERATURA: 127 C
+DENSIDAD: 72 U
+-------------------------------
+TIEMPO: 96 MIN
+TEMPERATURA: 175 C
+DENSIDAD: 168 U
+-------------------------------
+TIEMPO: 152 MIN
+TEMPERATURA: 187 C
+DENSIDAD: 153 U
+-------------------------------
+TIEMPO: 154 MIN
+TEMPERATURA: 107 C
+DENSIDAD: 121 U
+-------------------------------
+TIEMPO: 43 MIN
+TEMPERATURA: 55 C
+DENSIDAD: 70 U
+-------------------------------
+TIEMPO: 1 MIN
+TEMPERATURA: 50 C
+DENSIDAD: 138 U
+-------------------------------
+TIEMPO: 175 MIN
+TEMPERATURA: 135 C
+DENSIDAD: 39 U
+-------------------------------
+TIEMPO: 52 MIN
+TEMPERATURA: 88 C
+DENSIDAD: 39 U
+-------------------------------
+TIEMPO: 132 MIN
+TEMPERATURA: 45 C
+DENSIDAD: 163 U
+-------------------------------
+TIEMPO: 136 MIN
+TEMPERATURA: 23 C
+DENSIDAD: 5 U
+-------------------------------
+TIEMPO: 106 MIN
+TEMPERATURA: 138 C
+DENSIDAD: 192 U
+-------------------------------
+TIEMPO: 106 MIN
+TEMPERATURA: 139 C
+DENSIDAD: 148 U
+-------------------------------
+TIEMPO: 52 MIN
+TEMPERATURA: 117 C
+DENSIDAD: 62 U
+-------------------------------
+TIEMPO: 115 MIN
+TEMPERATURA: 154 C
+DENSIDAD: 159 U
+-------------------------------
+TIEMPO: 69 MIN
+TEMPERATURA: 71 C
+DENSIDAD: 53 U
+-------------------------------
+TIEMPO: 112 MIN
+TEMPERATURA: 42 C
+DENSIDAD: 175 U
+-------------------------------
+TIEMPO: 140 MIN
+TEMPERATURA: 155 C
+DENSIDAD: 118 U
+-------------------------------
+TIEMPO: 55 MIN
+TEMPERATURA: 6 C
+DENSIDAD: 34 U
+-------------------------------
+TIEMPO: 52 MIN
+TEMPERATURA: 67 C
+DENSIDAD: 74 U
+-------------------------------
+TIEMPO: 140 MIN
+TEMPERATURA: 99 C
+DENSIDAD: 149 U
+-------------------------------
+TIEMPO: 150 MIN
+TEMPERATURA: 38 C
+DENSIDAD: 173 U
+-------------------------------
+TIEMPO: 99 MIN
+TEMPERATURA: 37 C
+DENSIDAD: 189 U
+-------------------------------
+TIEMPO: 61 MIN
+TEMPERATURA: 143 C
+DENSIDAD: 46 U
+-------------------------------
+TIEMPO: 120 MIN
+TEMPERATURA: 149 C
+DENSIDAD: 155 U
+-------------------------------
+TIEMPO: 83 MIN
+TEMPERATURA: 30 C
+DENSIDAD: 135 U
+-------------------------------
+TIEMPO: 172 MIN
+TEMPERATURA: 133 C
+DENSIDAD: 184 U
+-------------------------------
+TIEMPO: 60 MIN
+TEMPERATURA: 48 C
+DENSIDAD: 120 U
+-------------------------------
+TIEMPO: 105 MIN
+TEMPERATURA: 167 C
+DENSIDAD: 57 U
+-------------------------------
+TIEMPO: 174 MIN
+TEMPERATURA: 41 C
+DENSIDAD: 47 U
+-------------------------------
+TIEMPO: 174 MIN
+TEMPERATURA: 183 C
+DENSIDAD: 55 U
+-------------------------------
+TIEMPO: 124 MIN
+TEMPERATURA: 48 C
+DENSIDAD: 49 U
+-------------------------------
+TIEMPO: 137 MIN
+TEMPERATURA: 70 C
+DENSIDAD: 180 U
+-------------------------------
+TIEMPO: 86 MIN
+TEMPERATURA: 120 C
+DENSIDAD: 199 U
+-------------------------------
+TIEMPO: 77 MIN
+TEMPERATURA: 51 C
+DENSIDAD: 162 U
+-------------------------------
+TIEMPO: 152 MIN
+TEMPERATURA: 180 C
+DENSIDAD: 186 U
+-------------------------------
+TIEMPO: 141 MIN
+TEMPERATURA: 30 C
+DENSIDAD: 178 U
+-------------------------------
+TIEMPO: 18 MIN
+TEMPERATURA: 102 C
+DENSIDAD: 184 U
+-------------------------------
+TIEMPO: 29 MIN
+TEMPERATURA: 168 C
+DENSIDAD: 130 U
+-------------------------------
+TIEMPO: 33 MIN
+TEMPERATURA: 58 C
+DENSIDAD: 62 U
+-------------------------------
+TIEMPO: 172 MIN
+TEMPERATURA: 159 C
+DENSIDAD: 185 U
+-------------------------------
+TIEMPO: 118 MIN
+TEMPERATURA: 192 C
+DENSIDAD: 148 U
+-------------------------------
+TIEMPO: 53 MIN
+TEMPERATURA: 54 C
+DENSIDAD: 49 U
+-------------------------------
+TIEMPO: 97 MIN
+TEMPERATURA: 129 C
+DENSIDAD: 132 U
+-------------------------------
+TIEMPO: 171 MIN
+TEMPERATURA: 21 C
+DENSIDAD: 12 U
+-------------------------------
+TIEMPO: 93 MIN
+TEMPERATURA: 159 C
+DENSIDAD: 72 U
+-------------------------------
+TIEMPO: 170 MIN
+TEMPERATURA: 109 C
+DENSIDAD: 197 U
+-------------------------------
+TIEMPO: 113 MIN
+TEMPERATURA: 79 C
+DENSIDAD: 182 U
+-------------------------------
+TIEMPO: 166 MIN
+TEMPERATURA: 41 C
+DENSIDAD: 175 U
+-------------------------------
+TIEMPO: 27 MIN
+TEMPERATURA: 49 C
+DENSIDAD: 12 U
+-------------------------------
+TIEMPO: 29 MIN
+TEMPERATURA: 137 C
+DENSIDAD: 121 U
+-------------------------------
+TIEMPO: 119 MIN
+TEMPERATURA: 153 C
+DENSIDAD: 124 U
+-------------------------------
+TIEMPO: 53 MIN
+TEMPERATURA: 59 C
+DENSIDAD: 105 U
+-------------------------------
+TIEMPO: 91 MIN
+TEMPERATURA: 55 C
+DENSIDAD: 9 U
+-------------------------------
+TIEMPO: 9 MIN
+TEMPERATURA: 18 C
+DENSIDAD: 161 U
+-------------------------------
+TIEMPO: 141 MIN
+TEMPERATURA: 44 C
+DENSIDAD: 184 U
+-------------------------------
+TIEMPO: 74 MIN
+TEMPERATURA: 162 C
+DENSIDAD: 175 U
+-------------------------------
+TIEMPO: 27 MIN
+TEMPERATURA: 95 C
+DENSIDAD: 108 U
+-------------------------------
+TIEMPO: 37 MIN
+TEMPERATURA: 183 C
+DENSIDAD: 152 U
+-------------------------------
+TIEMPO: 111 MIN
+TEMPERATURA: 15 C
+DENSIDAD: 84 U
+-------------------------------
+TIEMPO: 5 MIN
+TEMPERATURA: 126 C
+DENSIDAD: 187 U
+-------------------------------
+TIEMPO: 85 MIN
+TEMPERATURA: 5 C
+DENSIDAD: 147 U
+-------------------------------
+TIEMPO: 48 MIN
+TEMPERATURA: 98 C
+DENSIDAD: 182 U
+-------------------------------
+TIEMPO: 43 MIN
+TEMPERATURA: 165 C
+DENSIDAD: 154 U
+-------------------------------
+TIEMPO: 83 MIN
+TEMPERATURA: 136 C
+DENSIDAD: 103 U
+-------------------------------
+TIEMPO: 153 MIN
+TEMPERATURA: 136 C
+DENSIDAD: 102 U
+-------------------------------
+TIEMPO: 195 MIN
+TEMPERATURA: 199 C
+DENSIDAD: 143 U
+-------------------------------
+TIEMPO: 125 MIN
+TEMPERATURA: 122 C
+DENSIDAD: 140 U
+-------------------------------
+TIEMPO: 143 MIN
+TEMPERATURA: 5 C
+DENSIDAD: 109 U
+-------------------------------
+TIEMPO: 186 MIN
+TEMPERATURA: 35 C
+DENSIDAD: 86 U
+-------------------------------
+TIEMPO: 160 MIN
+TEMPERATURA: 164 C
+DENSIDAD: 46 U
+-------------------------------
+TIEMPO: 44 MIN
+TEMPERATURA: 28 C
+DENSIDAD: 47 U
+-------------------------------
+TIEMPO: 189 MIN
+TEMPERATURA: 177 C
+DENSIDAD: 164 U
+-------------------------------
+TIEMPO: 63 MIN
+TEMPERATURA: 81 C
+DENSIDAD: 158 U
+-------------------------------
+TIEMPO: 174 MIN
+TEMPERATURA: 115 C
+DENSIDAD: 122 U
+-------------------------------
+TIEMPO: 165 MIN
+TEMPERATURA: 136 C
+DENSIDAD: 30 U
+-------------------------------
+TIEMPO: 102 MIN
+TEMPERATURA: 44 C
+DENSIDAD: 180 U
+-------------------------------
+TIEMPO: 78 MIN
+TEMPERATURA: 172 C
+DENSIDAD: 132 U
+-------------------------------
+TIEMPO: 145 MIN
+TEMPERATURA: 125 C
+DENSIDAD: 20 U
+-------------------------------
+TIEMPO: 43 MIN
+TEMPERATURA: 175 C
+DENSIDAD: 165 U
+-------------------------------
+TIEMPO: 191 MIN
+TEMPERATURA: 63 C
+DENSIDAD: 99 U
+-------------------------------
+TIEMPO: 85 MIN
+TEMPERATURA: 12 C
+DENSIDAD: 114 U
+-------------------------------
+TIEMPO: 18 MIN
+TEMPERATURA: 166 C
+DENSIDAD: 133 U
+-------------------------------
+TIEMPO: 106 MIN
+TEMPERATURA: 116 C
+DENSIDAD: 117 U
+-------------------------------
+TIEMPO: 143 MIN
+TEMPERATURA: 15 C
+DENSIDAD: 34 U
+-------------------------------
+TIEMPO: 168 MIN
+TEMPERATURA: 159 C
+DENSIDAD: 90 U
+-------------------------------
+TIEMPO: 177 MIN
+TEMPERATURA: 159 C
+DENSIDAD: 162 U
+-------------------------------
+TIEMPO: 172 MIN
+TEMPERATURA: 112 C
+DENSIDAD: 36 U
+-------------------------------
+TIEMPO: 138 MIN
+TEMPERATURA: 173 C
+DENSIDAD: 5 U
+-------------------------------
+TIEMPO: 119 MIN
+TEMPERATURA: 81 C
+DENSIDAD: 112 U
+-------------------------------
+TIEMPO: 31 MIN
+TEMPERATURA: 27 C
+DENSIDAD: 40 U
+-------------------------------
+TIEMPO: 142 MIN
+TEMPERATURA: 154 C
+DENSIDAD: 168 U
+-------------------------------
+TIEMPO: 15 MIN
+TEMPERATURA: 145 C
+DENSIDAD: 4 U
+-------------------------------
+TIEMPO: 42 MIN
+TEMPERATURA: 81 C
+DENSIDAD: 70 U
+-------------------------------
+TIEMPO: 119 MIN
+TEMPERATURA: 95 C
+DENSIDAD: 34 U
+-------------------------------
+TIEMPO: 43 MIN
+TEMPERATURA: 102 C
+DENSIDAD: 105 U
+-------------------------------
+TIEMPO: 195 MIN
+TEMPERATURA: 16 C
+DENSIDAD: 35 U
+-------------------------------
+TIEMPO: 117 MIN
+TEMPERATURA: 21 C
+DENSIDAD: 90 U
+-------------------------------
+TIEMPO: 108 MIN
+TEMPERATURA: 149 C
+DENSIDAD: 64 U
+-------------------------------
+TIEMPO: 7 MIN
+TEMPERATURA: 152 C
+DENSIDAD: 63 U
+-------------------------------
+TIEMPO: 53 MIN
+TEMPERATURA: 183 C
+DENSIDAD: 140 U
+-------------------------------
+TIEMPO: 107 MIN
+TEMPERATURA: 139 C
+DENSIDAD: 80 U
+-------------------------------
+TIEMPO: 73 MIN
+TEMPERATURA: 178 C
+DENSIDAD: 176 U
+-------------------------------
+TIEMPO: 15 MIN
+TEMPERATURA: 148 C
+DENSIDAD: 89 U
+-------------------------------
+TIEMPO: 56 MIN
+TEMPERATURA: 49 C
+DENSIDAD: 82 U
+-------------------------------
+TIEMPO: 101 MIN
+TEMPERATURA: 130 C
+DENSIDAD: 122 U
+-------------------------------
+TIEMPO: 194 MIN
+TEMPERATURA: 48 C
+DENSIDAD: 60 U
+-------------------------------
+TIEMPO: 147 MIN
+TEMPERATURA: 155 C
+DENSIDAD: 91 U
+-------------------------------
+TIEMPO: 100 MIN
+TEMPERATURA: 48 C
+DENSIDAD: 24 U
+-------------------------------
+TIEMPO: 79 MIN
+TEMPERATURA: 148 C
+DENSIDAD: 29 U
+-------------------------------
+TIEMPO: 138 MIN
+TEMPERATURA: 45 C
+DENSIDAD: 120 U
+-------------------------------
+TIEMPO: 55 MIN
+TEMPERATURA: 102 C
+DENSIDAD: 114 U
+-------------------------------

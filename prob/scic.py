@@ -47,6 +47,19 @@ def save_matrix_csv(filename, mat):
     f.close()
 
 
+def save_file(filename, mat):
+    f = open(filename, "w")
+    f.writelines(mat)
+    f.close()
+
+
+def load_file(filename):
+    f = open(filename, "r")
+    mat = f.readlines()
+    f.close()
+    return mat
+
+
 def get_line(filename, i):
     f = open(filename, "r")
     lines = f.readlines()

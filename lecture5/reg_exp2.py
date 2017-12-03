@@ -8,6 +8,9 @@ def match():
     patternDIL = r".*?(DIL).*?(?P<DIL>[0-9]+)u[\s\n]*?"
     text = """* PH: 27%
             * TEMPERATURA: 120C
+            * DILATACION: 5u
+            * PH: 27%
+            * TEMPERATURA: 120C
             * DILATACION: 5u"""
     m = re.match(patternPH + patternTEMP + patternDIL, text)
     # return m.groups()

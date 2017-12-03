@@ -1,0 +1,17 @@
+<h1>Hola {{ nombre_html }}</h1>
+~~~ 
+
+## Procesar un formulario con el método *POST*
+
+Para controlar un formulario *POST* debemos recuperar los campos del formulario, supongamos que tenemos el siguiente html que establece un formulario que se procesa en la ruta `/login`:
+
+> HTML `templates/login.html`
+
+~~~html
+<form action="/login" method="POST">
+    <label for="usuario">Usuario:</label><br>
+    <input name="usuario" type="text"><br>
+    <label for="clave">Contraseña:</label><br>
+    <input name="clave" type="password"><br>
+    <input type="submit" value="ingresar">
+</form>
