@@ -17,7 +17,7 @@ c["pass"] = c["user"] = c["apellido"] = c["nombre"] = None
 
 @app.route("/")
 def home():
-    return render_template("signup.html")
+    return redirect("/signup")
 
 
 @app.route("/signup")
@@ -26,7 +26,7 @@ def signin():
 
 
 # Guardar el diccionario con los datos de la persona en mongo
-def insert_dude_mongodb(user, pass, name, last):
+def insert_dude_mongodb(user, password, name, lastname):
     results = []
     client = None
     try:
@@ -35,7 +35,8 @@ def insert_dude_mongodb(user, pass, name, last):
         db = client.test
         prob10 = db.prob10
 
-        results = prob10.insert_one({})
+        results = prob10.insert_one(
+            {"usuario": user, "password": password, "nombre": name, "apellido": lastname})
         print(results)
     except pymongo.errors.ConnectionFailure as e:
         print("Could not connect to server: %s" % e)
@@ -54,12 +55,12 @@ def save_dude():
     if request.method == 'POST':
         print(request.form)
         if insert_dude_mongodb(request.form['usuario'], request.form['clave'], request.form['nombre'], request.form['apellido']):
-            return redirect("/")
+            return redirect("/personas")
         else:
             error = 'Error @ mongo when inserting'
     # the code below is executed if the request method
     # was GET or the credentials were invalid
-    return render_template('signup.html', error=error)
+    return redirect('/signup')
 
 
 # Proveer una ruta llamada /personas que devuelva un arreglo de diccionarios con los datos de todas las personas
@@ -72,8 +73,9 @@ def get_people_from_mongodb():
         db = client.test
         prob10 = db.prob10
 
-        results = prob10.find()
-        print(results)
+        cursor = prob10.find()
+        for person in cursor:
+            results.append(person)
     except pymongo.errors.ConnectionFailure as e:
         print("Could not connect to server: %s" % e)
     except pymongo.errors.BulkWriteError as bwe:
@@ -87,8 +89,8 @@ def get_people_from_mongodb():
 
 @app.route("/personas")
 def list_people():
-    members = get_people_from_mongodb()
-    return render_template("personas.html", members)
+    people = get_people_from_mongodb()
+    return render_template("personas.html", members=people)
 
 
 app.run()

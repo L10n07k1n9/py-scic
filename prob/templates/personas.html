@@ -1,7 +1,56 @@
-<h1>Members</h1>
-<dl>
-    {% for key, value in members.iteritems() %}
-    <dt>{{ key|e }}</dt>
-    <dd>{{ value|e }}</dd>
-    {% endfor %}
-</dl>
+<!doctype html>
+<html>
+
+<head>
+    <title>People!</title>
+    <link charset="utf-8" rel="stylesheet" id="b_css" href="{{url_for('static', filename='button.css')
+}}">
+</head>
+
+<body>
+    {% if message %}
+    <h1>Members( {{message}} )</h1>
+    {% else %}
+    <h1>Members</h1>
+    {% endif %}
+
+    <ul>
+        {% for m in members %}
+        <li>
+            <p>
+                <strong>Usuario:</strong> {{ m.usuario|e }};
+                <br />
+                <strong>Password:</strong> {{ m.password|e }};
+                <br />
+                <strong>Nombre:</strong> {{ m.nombre|e }};
+                <br />
+                <strong>Apellido:</strong> {{ m.apellido|e }};
+                <br />
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+    <a href="#" class="sf-back-to-top">
+        <span class="arrow"></span>Back</a>
+</body>
+<script src="{{url_for('static', filename='jquery.min.js')}}"></script>
+<script>
+    var amountScrolled = 300;
+
+    $(window).scroll(function () {
+        if ($(window).scrollTop() > amountScrolled) {
+            $('a.sf-back-to-top').fadeIn('slow');
+        } else {
+            $('a.sf-back-to-top').fadeOut('slow');
+        }
+    });
+
+    $('a.sf-back-to-top').click(function () {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 700);
+        return false;
+    });
+</script>
+
+</html>
