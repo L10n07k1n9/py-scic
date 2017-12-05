@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import re
 import random
 import scic as s
@@ -25,6 +26,27 @@ def define_col(seed=200):
 
 # Crear una colección llamada experimentos con al menos 200 experimentos aleatorios.
 define_col()
+=======
+import random
+import scic as s
+
+# Problemas
+
+# Definir los campos que debería contener un documento que almacena los datos de un experimiento, por ejemplo, tiempo, temperatura, densidad, etc.
+def define_col(file_nameseed=200):
+    temp_col = "Tiempo"
+    dilatacion_col = "Temp"
+    densidad_col = "Densidad"
+
+    header = [temp_col,dilatacion_col,densidad_col]
+
+    mat = [header]
+    for i in range(seed):
+        mat.append(random.sample(range(0, 200), 4))
+    s.save_matrix_csv(file_name, mat)
+    return header
+# Crear una colección llamada experimentos con al menos 200 experimentos aleatorios.
+>>>>>>> 71207231113eae7d5fd0465d3156e8c9120d82ce
 
 # Recuperar todos los experimentos y guardarlos en un archivo de texto con la siguiente estructura, por ejemplo, si los campos de cada experimento son: tiempo, temperatura, densidad, se debería construir el archivo:
 
@@ -41,6 +63,7 @@ define_col()
 # DENSIDAD: 3.1 U
 # -------------------------------
 # ...
+<<<<<<< HEAD
 data, x, file_format, file_txt_formatted, separator = s.open_csv_metadata(
     file_name), 0, [], file_name + ".txt", "-------------------------------"
 file_format = list(map(lambda row: "TIEMPO: {} MIN\nTEMPERATURA: {} C\nDENSIDAD: {} U\n{}\n".format(
@@ -88,3 +111,6 @@ def save_to_mongo(file_to_read):
 
 result = save_to_mongo(file_txt_formatted)
 print(result)
+=======
+# Crear un programa que recupere los datos del archivo anterior y los guarde en la colección experimentos_recuperados.
+>>>>>>> 71207231113eae7d5fd0465d3156e8c9120d82ce
